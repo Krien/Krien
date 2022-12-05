@@ -1,6 +1,4 @@
-### Hi there 👋
-For some reason you seem to be inspecting my profile.
-For a short GitHub summary, since I assume that is what you are looking for:
-- 🔭 I’m currently a Msc CS student at the VU and UvA (the Netherlands). 
-- 🌱 My main interests are in storage systems, key-value stores and completely open-source projects.
+### Hello there 👋
+- 🔭 I’m currently a PhD student at the CS department of the VU (the Netherlands), and part of the Massivizing Computer Systems (AtLarge) faculty. 
+- 🌱 My main interests are in storage systems, networked systems, and how to schedule such systems.
 - ⚡ Occasionally I star repos, this is just general appreciation and nothing to worry about 👁️👁️.
